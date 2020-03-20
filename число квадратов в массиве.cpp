@@ -1,4 +1,4 @@
-//число квадратов в этом массиве
+//С‡РёСЃР»Рѕ РєРІР°РґСЂР°С‚РѕРІ РІ РјР°СЃСЃРёРІРµ
 #include <iostream>
 using namespace std;
 int main() {
@@ -13,6 +13,6 @@ int main() {
 	for (i = 0; i < n; i++) {
 		if (pow(b[i], 2) == a[i]) q++;
 	}
-	cout << q << endl;
+	cout << q << endl; //РєРѕР»РёС‡РµСЃС‚РІРѕ
 	system("pause");
 }
